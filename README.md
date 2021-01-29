@@ -31,8 +31,8 @@ Please visit [Source Code Protection Pro](https://viitorcloud.com/vcstore/#sourc
  
 ##Installation 
 <ul>
-<li>1. Upload plugin directory to the `/wp-content/plugins/` directory</li>
-<li>2. Activate the plugin through the 'Plugins' menu in WordPress</li>
+<li> Upload plugin directory to the `/wp-content/plugins/` directory</li>
+<li> Activate the plugin through the 'Plugins' menu in WordPress</li>
 </ul>
 ## Changelog 
 
