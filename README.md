@@ -1,8 +1,8 @@
 <h2 align="center">Source Code Protection</h2>
 <ul>
-<li>Requires at least: **3.0**</li>
-<li>Tested up to:**5.5.1**</li>
-<li>Stable tag: **trunk**</li>
+<li>Requires at least: 3.0</li>
+<li>Tested up to: 5.5.1</li>
+<li>Stable tag: trunk</li>
 </ul>
 
 ## Description 
