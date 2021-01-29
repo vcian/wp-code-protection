@@ -25,15 +25,18 @@ and keyboard copy shortcut keys such as CTRL A, C, X, U, S, and P are disabled w
   [ViitorCloud](https://viitorcloud.com/) believes in an active community support so with such plugins we try to make life easy for developers & of course customers. Don't forget to subscribe our newsletter.
  
 ## Advance Features (Pro Version)
-
-1. Allow to open only links in new tab.
-Please visit [Source Code Protection Pro](https://viitorcloud.com/vcstore/#sourcecode-pro) to buy.
+<ul>
+<li>Allow to open only links in new tab.</li>
+<li>Please visit [Source Code Protection Pro](https://viitorcloud.com/vcstore/#sourcecode-pro) to buy.</li>
+</ul>
  
-##Installation 
+## Installation 
+
 <ul>
 <li> Upload plugin directory to the `/wp-content/plugins/` directory</li>
 <li> Activate the plugin through the 'Plugins' menu in WordPress</li>
 </ul>
+
 ## Changelog 
 
 1.0.0  * First public release.
